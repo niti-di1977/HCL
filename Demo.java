@@ -6,6 +6,7 @@ public class HelloJava {
 		// TODO Auto-generated method stub
 
 		System.out.println("Program for testing");
+		System.out.println("Few Changes made");
 	}
 
 }
